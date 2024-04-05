@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\finanx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\finanx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FinanxC#\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\User.cs",
+              "RelativeToolTip": "FinanxC#\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:40:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Finanx.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Finanx.csproj",
+              "RelativeDocumentMoniker": "FinanxC#\\Finanx.csproj",
+              "ToolTip": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Finanx.csproj",
+              "RelativeToolTip": "FinanxC#\\Finanx.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T02:39:59.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

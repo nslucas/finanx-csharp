@@ -2063,9 +2063,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\FinanxC#.csproj",
-      "projectName": "FinanxC#",
-      "projectPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\FinanxC#.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Finanx.csproj",
+      "projectName": "Finanx",
+      "projectPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Finanx.csproj",
       "packagesPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\obj\\",
       "projectStyle": "PackageReference",

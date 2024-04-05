@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7AOPrU/ZmNILaK2iRYNBVUkwLdkqxpcdFX1YUBb0kOzsDZBvPLCPVlaIag3bmJ/BabbBtTwOAfIqtY+w0KguIg==",
+  "dgSpecHash": "zJJlxdj3pQ8r4R3JzNwz3GdxhzPa5kr1FXlhj/7uyCU40t0Tvd0r11IsTpykRecB222Nn7eUe5EGpIQ6HbMLMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\FinanxC#.csproj",
+  "projectFilePath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Finanx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.DESKTOP-MC8JEHM\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\lucas.DESKTOP-MC8JEHM\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
