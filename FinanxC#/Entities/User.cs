@@ -2,17 +2,19 @@
 {
     public class User
     {
-        public User(String id, String name, String email, String password) 
+        public User(String id, String name, String lastName, String email, String password) 
         {
-            this.Id = id;
-            this.Name = name;
-            this.Email = email;
-            this.Password = password;
+           Id = id;
+           Name = name;
+           LastName = lastName;
+           Email = email;
+           Password = password;
         }
 
         private String Id { get; set; }
-        public String Name { get; set; }
-        public String Email { get; set; }
-        public String Password { get; set; }
+        private String Name { get; set; }
+        private String LastName {  get; set; }
+        private String Email { get; set; }
+        private String Password { get; set; }
     }
 }

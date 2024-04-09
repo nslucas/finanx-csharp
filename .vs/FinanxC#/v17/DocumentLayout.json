@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|c:\\users\\lucas.desktop-mc8jehm\\source\\repos\\finanxc#\\finanxc#\\entities\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C692AC0-42F8-4631-8FE6-7C4B9A1BB30D}|FinanxC#\\Finanx.csproj|solutionrelative:finanxc#\\entities\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\Budget.cs",
+              "RelativeDocumentMoniker": "FinanxC#\\Entities\\Budget.cs",
+              "ToolTip": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\Budget.cs",
+              "RelativeToolTip": "FinanxC#\\Entities\\Budget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:22:12.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\Transaction.cs",
               "RelativeDocumentMoniker": "FinanxC#\\Entities\\Transaction.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\User.cs",
               "RelativeDocumentMoniker": "FinanxC#\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\lucas.DESKTOP-MC8JEHM\\source\\repos\\FinanxC#\\FinanxC#\\Entities\\User.cs",
               "RelativeToolTip": "FinanxC#\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T02:40:29.024Z",
               "EditorCaption": ""
